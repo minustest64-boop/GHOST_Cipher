@@ -27,6 +27,6 @@ Run the following commands in your terminal:
 pkg update && pkg upgrade
 pkg install python git
 pip install requests colorama
-git clone [https://github.com/minustest64-boop/GHOST_Cipher](https://github.com/minustest64-boop/GHOST_Cipher)
+git clone https://github.com/minustest64-boop/GHOST_Cipher.git
 cd GHOST_Cipher
 python GHOST.py
